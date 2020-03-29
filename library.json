@@ -1,0 +1,13 @@
+{
+  "name": "mqtt5nano",
+  "keywords": "wifi,wi-fi,mqtt,mqtt5,mqtt 5",
+  "description": "Mqtt 5 parser for Arduino with demo for ESP8266",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/TheI4T/mqtt5nano.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif8266",
+  "version": "0.1.0"
+}
