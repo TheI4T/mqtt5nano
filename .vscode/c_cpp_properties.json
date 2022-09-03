@@ -1,10 +1,13 @@
 {
+    //"comment":"what is this for? I have to put -I in the tasks json because this doesn't work",
+
     "configurations": [
         {
+            
             "name": "Mac",
             "includePath": [
-                "/Users/awootton/Library/Arduino15/packages/esp8266/tools/**",
-                "/Users/awootton/Library/Arduino15/packages/esp8266/hardware/esp8266/2.6.3/**",
+                "/Users/awootton/Arduino/libraries/**",
+                "/Users/awootton/Arduino/libraries/ArduinoJson/**",
                 "${workspaceFolder}/**"
             ],
             "defines": [],
@@ -19,4 +22,5 @@
         }
     ],
     "version": 4
+    
 }

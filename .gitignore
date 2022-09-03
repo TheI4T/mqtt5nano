@@ -38,3 +38,7 @@
 mqtt5nano
 mqtt5nano_test
 slices
+# libraries are a soft link to ~/Arduino/libraries
+libraries
+
+test_filesystem_local_fs

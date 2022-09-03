@@ -80,6 +80,21 @@
         "cfenv": "cpp",
         "cinttypes": "cpp",
         "filesystem": "cpp",
-        "*.inc": "cpp"
+        "*.inc": "cpp",
+        "__bits": "cpp",
+        "codecvt": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "condition_variable": "cpp",
+        "coroutine": "cpp",
+        "numbers": "cpp",
+        "ranges": "cpp",
+        "semaphore": "cpp",
+        "span": "cpp",
+        "unordered_set": "cpp",
+        "variant": "cpp",
+        "memory_resource": "cpp",
+        "source_location": "cpp",
+        "stop_token": "cpp"
     }
 }
