@@ -1,5 +1,7 @@
 # mqtt5nano
 
+This moved to https://github.com/awootton/mqtt5nano
+
 Mqtt 5 implementation for Arduino. 
 
 All packets must be under 1024 bytes total. 
